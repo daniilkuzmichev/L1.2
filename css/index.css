@@ -1,0 +1,145 @@
+body {
+    position: absolute;
+    width: 1152px;
+    height: 700px;
+    background: #FAFBFD;
+}
+.people {
+    position: absolute;
+    left: 700px;
+    top: 200px;
+    width: 548px;
+    height: 395px;
+    background: url("../images/people.png");
+}
+
+.GoCorona {
+    position: absolute;
+    width: 140px;
+    height: 40px;
+    left: 52px;
+    top: 37px;
+    background: url("../images/GoCorona.png");
+}
+
+.Play {
+    position: absolute;
+    width: 44px;
+    height: 44px;
+    left: 70px;
+    top: 608px;
+    background: url("../images/Play.png");
+}
+
+.Take {
+    position: absolute;
+    width: 497px;
+    height: 108px;
+    left: 70px;
+    top: 240px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 126%;
+    font-feature-settings: 'pnum' on, 'lnum' on;
+    color: #000000
+}
+
+.All {
+    position: absolute;
+    width: 375px;
+    height: 36px;
+    left: 70px;
+    top: 360px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 138.5%;
+    letter-spacing: 0.08em;
+    font-feature-settings: 'pnum' on, 'lnum' on;
+    color: #616161;
+}
+
+.PR_red {
+    position: absolute;
+    width: 144px;
+    height: 40px;
+    left: 70px;
+    top: 420px;
+    background: #EC5863;
+    border-radius: 5px;
+}
+
+.GET {
+    position: absolute;
+    width: 86.62px;
+    height: 12px;
+    left: 99px;
+    top: 434px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 10px;
+    line-height: 12px;
+    letter-spacing: 0.14em;
+    color: #FCFDFE;
+}
+
+.stay {
+    position: absolute;
+    width: 172px;
+    height: 16px;
+    left: 126px;
+    top: 614px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 126%;
+    letter-spacing: 0.08em;
+    font-feature-settings: 'pnum' on, 'lnum' on;
+    color: #B0B0B0;
+}
+
+.watch {
+    position: absolute;
+    width: 80px;
+    height: 11px;
+    left: 126px;
+    top: 635px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 9px;
+    line-height: 126%;
+    letter-spacing: 0.165em;
+    text-transform: uppercase;
+    font-feature-settings: 'pnum' on, 'lnum' on;
+    color: #000000;
+}
+
+.PR_big {
+    position: absolute;
+    width: 295.29px;
+    height: 700px;
+    left: 1000px;
+    top: 0px;
+    background: #EC5863;
+    border-radius: 30px 0px 0px 30px;
+}
+
+.FEATURES {
+    position: absolute;
+    left: 300px;
+    top: 50px;
+    background: url("../images/FEATURES.png");
+}
+
+.EXPERTS {
+    position: absolute;
+    left: 400px;
+    top: 50px;
+    background: url("~/images/Experts.png");
+}

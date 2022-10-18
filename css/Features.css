@@ -1,0 +1,144 @@
+body {
+    position: absolute;
+    width: 1152px;
+    height: 700px;
+    background: #FAFBFD;
+}
+
+.FEATURES {
+    position: absolute;
+    left: 300px;
+    top: 50px;
+    background: url("../images/FEATURES.png");
+}
+
+.EXPERTS {
+    position: absolute;
+    left: 400px;
+    top: 50px;
+    background: url("../images/EXPERTS.png");
+}
+
+.FEAT {
+    position: absolute;
+    left: 760px;
+    top: 550px;
+    background: url("../images/EXPERTS.png");
+}
+
+.GoCorona {
+    position: absolute;
+    width: 140px;
+    height: 40px;
+    left: 52px;
+    top: 37px;
+    background: url("../images/GoCorona.png");
+}
+
+.PR1 {
+    position: absolute;
+    width: 147px;
+    height: 147px;
+    left: 245px;
+    top: 175px;
+    background: #EC5863;
+    border-radius: 30px;
+}
+
+.PR2 {
+    position: absolute;
+    width: 77px;
+    height: 77px;
+    left: 525px;
+    top: 500px;
+    background: #EC5863;
+    border-radius: 30px;
+}
+
+.PR3 {
+    position: absolute;
+    width: 77px;
+    height: 77px;
+    left: 275px;
+    top: 650px;
+    background: #EC5863;
+    border-radius: 30px;
+}
+
+.PR4 {
+    position: absolute;
+    width: 206px;
+    height: 27px;
+    left: 350px;
+    top: 670px;
+    background: rgba(240, 240, 240, 0.49);
+    border-radius: 16px;
+}
+
+.PR5 {
+    position: absolute;
+    width: 295.29px;
+    height: 200px;
+    left: 956px;
+    top: 0px;
+    background: #EC5863;
+    border-radius: 30px 0px 0px 30px;
+}
+
+.Phone {
+    position: absolute;
+    width: 293px;
+    height: 523px;
+    left: 300px;
+    top: 200px;
+    background: url("../images/phone.png");
+}
+
+.Text1 {
+    position: absolute;
+    width: 379px;
+    height: 108px;
+    left: 730px;
+    top: 350px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 126%;
+    font-feature-settings: 'pnum' on, 'lnum' on;
+    color: #000000;
+}
+
+.Text2{
+    position: absolute;
+    width: 363px;
+    height: 54px;
+    left: 735px;
+    top: 460px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 138.5%;
+    letter-spacing: 0.08em;
+    font-feature-settings: 'pnum' on, 'lnum' on;
+    color: #616161;
+}
+
+.GP {
+    position: absolute;
+    width: 161px;
+    height: 56px;
+    left: 650px;
+    top: 650px;
+    background: url("../images/GP.png");
+}
+
+.AS {
+    position: absolute;
+    width: 161px;
+    height: 66px;
+    left: 850px;
+    top: 645px;
+    background: url("../images/AS.png");
+}
